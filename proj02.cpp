@@ -1,7 +1,6 @@
   /*
    *         Name: Josh Woolbright
    *         Date: 3/27/2019
-   *       Course: CS2560.01
    *  Description: This program reads from a file conaining a list
    *               of books and stores them. It allows the user to print
    *               the whole list or search for a specific book by isbn.
