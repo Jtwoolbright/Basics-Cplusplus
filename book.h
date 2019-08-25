@@ -1,7 +1,6 @@
   /*        
    *         Name: Josh Woolbright
    *         Date: 3/27/2019
-   *       Course: CS2560.01
    *  Description: This is a header file for a class called Book.
    *       
    */
