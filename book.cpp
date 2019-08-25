@@ -1,10 +1,8 @@
   /*         
    *         Name: Josh Woolbright
    *         Date: 3/27/2018
-   *       Course: CS2560.01
-   *  Description: This file contains the code for the book header
-   *               file. 
-   *
+   *  Description: This file contains the code for the book 
+   *               header file.
    */
 
   #include "book.h"
